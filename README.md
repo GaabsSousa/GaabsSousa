@@ -24,18 +24,9 @@ Sou um entusiasta de tecnologia focado no desenvolvimento de soluções escaláv
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight&border_radius=10" />
-</p>
-
----
-
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [linkedin.com/in/SEU_PERFIL](https://linkedin.com/in/SEU_PERFIL)
+* **LinkedIn:** [https://www.linkedin.com/in/gabriel-sousa01/]([https://www.linkedin.com/in/gabriel-sousa01/])
 * **Localização:** Brasília, DF 🇧🇷
 
 ---
